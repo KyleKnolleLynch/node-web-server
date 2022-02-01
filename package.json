@@ -1,0 +1,21 @@
+{
+  "name": "node-web-server",
+  "version": "1.0.0",
+  "description": "Node.js web server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [],
+  "author": "Kyle Lynch",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "date-fns": "^2.28.0",
+    "express": "^4.17.2",
+    "uuid": "^8.3.2"
+  }
+}
