@@ -100,3 +100,15 @@
 20220203	15:21:54	950f90b0-238b-4a0f-be8d-929d3f7cfaec	GET	undefined	/favicon.ico
 20220203	15:21:56	8a8d5bd3-06c6-417b-ba24-a219687a12ba	GET	undefined	/
 20220203	15:21:56	27d804a8-b929-4e7a-b0c1-7b257d66f8aa	GET	undefined	/css/style.css
+20220204	10:54:49	5eeb36a0-4cd9-454e-afbb-399d48199333	GET	undefined	/
+20220204	10:54:49	3ab68efd-fd58-4aae-8cc5-68b0c395a0f3	GET	undefined	/css/style.css
+20220204	10:54:49	97bd546f-edca-488c-841d-901f5b0cb12b	GET	undefined	/favicon.ico
+20220204	10:54:55	57fb31a8-e46e-45b5-8f53-09b50f62820e	GET	undefined	/css/style.css
+20220204	10:55:04	31c5f447-c81a-4b5a-af97-150ec54b3b2c	GET	undefined	/favicon.ico
+20220204	10:55:04	3ea9fef1-1df2-4211-9d09-f0341a593424	GET	undefined	/css/style.css
+20220204	10:58:25	4d8e5dd0-6b53-4d03-85a9-a33a19fe0dc5	POST	undefined	/register
+20220204	10:58:39	71f29707-b3dc-45ca-8344-def4333b586a	POST	undefined	/register
+20220204	10:59:45	6383e50c-d688-4211-95af-2a05d66289fd	POST	undefined	/register
+20220204	11:11:00	409bb82b-68fd-4bec-83b5-a5200a98cd8c	POST	undefined	/auth
+20220204	11:11:18	66e2783f-d73a-4312-b4de-8ea861c786e0	POST	undefined	/auth
+20220204	11:11:53	e471c9ef-6569-43d7-9c76-e394ebd8a333	POST	undefined	/register
