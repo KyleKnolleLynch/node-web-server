@@ -87,3 +87,16 @@
 20220202	16:51:14	efd4afa9-6939-413c-b5b0-c26d4ce5934b	PUT	undefined	/employees
 20220202	16:51:38	0c8992f6-253e-48aa-9f17-ed46152b4069	DELETE	undefined	/employees
 20220202	16:52:12	5a7723cf-a38e-40d2-a9f8-d5c8261af357	GET	undefined	/employees/1
+20220203	14:11:07	057be696-5ae2-4b92-90ca-a8aa5d4134c8	GET	undefined	/employees/1
+20220203	14:11:22	492dbfdc-bfdf-47b5-9de0-e7e9c94d04a7	GET	undefined	/employees
+20220203	14:11:33	a70ed7b3-a22b-459b-8e98-06e9b152a154	POST	undefined	/employees
+20220203	14:11:50	37726df8-dc2b-4e58-a324-643d57063d66	DELETE	undefined	/employees
+20220203	14:12:09	760e0f4a-feab-4cb1-ad9e-3f113608adbc	PUT	undefined	/employees
+20220203	14:12:38	5ecb8dfd-1cca-4ba2-af59-0782e5303fcb	DELETE	undefined	/employees
+20220203	14:12:52	7b0bd29c-04e7-4d2d-9bc8-cdb90ed39f53	POST	undefined	/employees
+20220203	14:13:12	a23401d9-a53b-416d-8681-1e02fb2e2925	GET	undefined	/employees/1
+20220203	15:21:54	c4ba9b03-3bb9-4b25-94fe-1af92dd6cc02	GET	undefined	/
+20220203	15:21:54	a2259377-ef8b-429d-89da-2401bd3c5324	GET	undefined	/css/style.css
+20220203	15:21:54	950f90b0-238b-4a0f-be8d-929d3f7cfaec	GET	undefined	/favicon.ico
+20220203	15:21:56	8a8d5bd3-06c6-417b-ba24-a219687a12ba	GET	undefined	/
+20220203	15:21:56	27d804a8-b929-4e7a-b0c1-7b257d66f8aa	GET	undefined	/css/style.css
