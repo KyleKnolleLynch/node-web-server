@@ -202,3 +202,14 @@
 20220207	14:00:20	52decbcd-20ca-4a6a-ab67-e202d6cf31e9	POST	undefined	/auth
 20220207	14:01:06	925d5465-8231-4c18-a5bd-47cc65bc862e	DELETE	undefined	/employees
 20220207	14:01:20	afb2ba8b-179f-4267-82ca-e3e2fb8d2c8a	DELETE	undefined	/employees
+20220207	16:38:39	438638ee-2ead-428d-aab5-cf17944d6be3	OPTIONS	http://localhost:3000	/register
+20220207	16:38:39	ffb081b4-f1b0-4cc2-a884-d6de4a94f169	POST	http://localhost:3000	/register
+20220207	16:39:04	55894702-877e-41a2-9d5b-130b23ee4cf6	OPTIONS	http://localhost:3000	/auth
+20220207	16:39:04	8e2c4ea6-5656-450e-b7d4-5ada9897df0e	POST	http://localhost:3000	/auth
+20220207	16:40:08	57e5b12a-ac08-4641-85a9-83baf03700f9	GET	undefined	/
+20220207	16:40:08	0e99b8c4-5db5-433d-a340-1254fbb1b648	GET	undefined	/css/style.css
+20220207	16:40:08	fed9e8fa-ff91-48ef-93fe-ee9f7d48193e	GET	undefined	/favicon.ico
+20220207	16:40:33	f0ceacbf-5fcf-4cca-a360-d545ac665f6d	OPTIONS	http://localhost:3000	/auth
+20220207	16:40:33	bccbdeae-3f77-41d9-95d2-958180990cd9	POST	http://localhost:3000	/auth
+20220207	16:41:03	962820a9-ebf3-431e-b52b-d7a1e1ed1cb0	OPTIONS	http://localhost:3000	/registe
+20220207	16:41:03	b819cf57-b72b-4ffb-b49a-b3c8ce0ae14a	POST	http://localhost:3000	/registe
